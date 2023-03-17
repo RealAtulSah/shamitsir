@@ -1,0 +1,136 @@
+body {
+    font-family: 'Source Sans Pro', sans-serif; 
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 0%;
+    color: #FFF;
+    background-color: #AA77FF;
+    font-family: 'Rajdhani', sans-serif;
+
+}
+
+th {
+    font-size: 1.4rem;
+    margin-bottom: 0%;
+}
+
+th hr {
+    width: 25%;
+    
+}
+
+hr {
+    width: 10%;
+    border-width: 1.5px;
+    border-style: solid;
+    margin-top: 0%;
+    border-color: #AA77FF;
+}
+
+h1 {
+    color: #AA77FF;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+li {
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    color: #AA77FF;
+}
+
+/* heading  */
+#heading {
+    margin: auto 2% auto 2%;
+}
+
+.intro {
+    border: solid;
+    padding-left: 20px;
+}
+
+.profile-pic {
+    position: absolute;
+    right: 5%;
+    top: 10%;
+}
+
+/* about  */
+#about {
+    margin: auto 2% auto 2%;
+}
+
+#about p {
+    font-size: 1.2rem;
+    padding: 0% 5% 0% 5%;
+    margin-bottom: 0%;
+}
+
+.left-col {
+    border-right: 1px solid;
+    border-color: #AA77FF;
+}
+
+.resume {
+    margin-top: 0%;
+    
+}
+
+/* education  */
+
+#education-sec {
+    margin: 2% 2% auto 2%;
+    height: 480px;
+}
+
+#education-sec p{
+    font-size: 1.1rem;
+}
+
+.education {
+    width: 65%;
+    height: 450px;
+    display: inline-block;
+    position: relative;
+    border-right: solid #AA77FF;
+    border-width: 70%;
+    /* background-color: #AA77FF; */
+}
+
+.education h2{
+    margin-top: 0%;
+    
+}
+
+.achivement {
+    width: 35%;
+    height: 200px;
+    position: relative;
+    left: 65%;
+    bottom: 450px;
+    /* background-color: aquamarine; */
+}
+
+.achivement h2 {
+    margin-top: 0%;
+    
+}
+
+#professional {
+    font-size: 1.1rem;
+    
+}
+
+#professional span {
+    color: #AA77FF;
+    font-weight: 700;
+}
